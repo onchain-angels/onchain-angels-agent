@@ -1,4 +1,8 @@
-# Eliza
+# Onchain Angels Agent (Forked from Eliza Starter)
+
+## Onchain Angels Agent Docker Container for Autonome
+
+https://hub.docker.com/r/wavesofwonder/onchain-angels-agent
 
 ## Edit the character files
 
@@ -88,7 +92,3 @@ services:
 ```bash
 docker compose -f docker-compose-image.yaml up
 ```
-
-# Deploy with Railway
-
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/aW47_j)
